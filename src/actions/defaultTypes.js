@@ -1,0 +1,2 @@
+export const CGU_ACCEPTED = 'CGU_ACCEPTED';
+export const USER_INFORMATIONS = 'USER_INFORMATIONS';
